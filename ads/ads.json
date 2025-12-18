@@ -1,17 +1,17 @@
 [
   {
-    "imageUrl": "http://192.168.42.234/ads/ad11.png",
+    "imageUrl": "https://raw.githubusercontent.com/digiworld-bit/calendar-luner-assets/refs/heads/main/ads/ad11.png",
     "clickUrl": "https://play.google.com/store/apps/details?id=yourapp",
     "order": 1
   },
   {
-    "imageUrl": "http://192.168.42.234/ads/ad22.png",
-    "clickUrl": "https://yourdomain.com/page1",
+    "imageUrl": "https://raw.githubusercontent.com/digiworld-bit/calendar-luner-assets/refs/heads/main/ads/ad11.png",
+    "clickUrl": "",
     "order": 2
   },
     {
-    "imageUrl": "http://192.168.42.234/ads/ad33.png",
-    "clickUrl": "https://yourdomain.com/page2",
+    "imageUrl": "https://raw.githubusercontent.com/digiworld-bit/calendar-luner-assets/refs/heads/main/ads/ad11.png",
+    "clickUrl": "",
     "order": 3
   }
 ]
