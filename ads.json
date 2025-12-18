@@ -1,17 +1,2 @@
-[
-  {
-    "imageUrl": "http://192.168.42.234/ads/ad11.png",
-    "clickUrl": "https://play.google.com/store/apps/details?id=yourapp",
-    "order": 1
-  },
-  {
-    "imageUrl": "http://192.168.42.234/ads/ad22.png",
-    "clickUrl": "https://yourdomain.com/page1",
-    "order": 2
-  },
-    {
-    "imageUrl": "http://192.168.42.234/ads/ad33.png",
-    "clickUrl": "https://yourdomain.com/page2",
-    "order": 3
-  }
-]
+
+
