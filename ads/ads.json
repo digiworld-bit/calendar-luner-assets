@@ -8,6 +8,11 @@
     "imageUrl": "https://raw.githubusercontent.com/digiworld-bit/calendar-luner-assets/refs/heads/main/ads/ic_placeholder.png",
     "clickUrl": "",
     "order": 2
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/digiworld-bit/calendar-luner-assets/refs/heads/main/ads/ic_christmas_wishes.png",
+    "clickUrl": "",
+    "order": 3
   }
 ]
 
